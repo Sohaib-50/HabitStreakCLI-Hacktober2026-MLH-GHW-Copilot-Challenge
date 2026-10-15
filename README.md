@@ -1,6 +1,12 @@
 # HabitStreakCLI
 
-A minimal command-line habit tracker for the MLH Global Hack Week Hacktoberfest challenge. It uses Python's standard library and stores data as JSON.
+A minimal command-line habit tracker for the MLH Global Hack Week Hacktoberfest challenge. It uses Python's standard library and stores data as JSON. Built for the [Use GitHub Copilot to Build a Simple Application challenge](https://www.mlh.com/challenges/01a11b46-2f5c-3ba2-3dac-73e6f58fd53e/) during MLH Global Hack Week Hacktober 2026.
+
+Built and tested end to end with GitHub Copilot in Codespace, using following features:
+1. `/init` to initialize the agent setup.
+2. Plan mode to plan and scope the application.
+3. Agent mode to implement the application and tests.
+4. Copilot's Generate Commit Message feature.
 
 ## Requirements
 
